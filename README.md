@@ -39,6 +39,3 @@ Bu proje, şirketler için araç ve şoför rezervasyonlarını yönetebileceği
 
 ## Katkı Sağlama
 Katkıda bulunmak isterseniz lütfen bir fork oluşturun, değişikliklerinizi bir branch'te yapın ve pull request gönderin.
-
-## Lisans
-MIT
